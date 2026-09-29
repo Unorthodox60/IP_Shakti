@@ -1,0 +1,20 @@
+Source: https://www.wto.org (Date Accessed: 2026-09-29)
+
+Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)
+Part II: Standards Concerning the Availability, Scope and Use of Intellectual Property Rights
+
+SECTION 5: PATENTS
+Article 27: Patentable Subject Matter
+1. Subject to the provisions of paragraphs 2 and 3, patents shall be available for any inventions, whether products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application.
+2. Members may exclude from patentability inventions, the prevention within their territory of the commercial exploitation of which is necessary to protect ordre public or morality, including to protect human, animal or plant life or health or to avoid serious prejudice to the environment, provided that such exclusion is not made merely because the exploitation is prohibited by their law.
+3. Members may also exclude from patentability:
+(a) diagnostic, therapeutic and surgical methods for the treatment of humans or animals;
+(b) plants and animals other than micro-organisms, and essentially biological processes for the production of plants or animals other than non-biological and microbiological processes. However, Members shall provide for the protection of plant varieties either by patents or by an effective sui generis system or by any combination thereof.
+
+Article 28: Rights Conferred
+1. A patent shall confer on its owner the following exclusive rights:
+(a) where the subject matter of a patent is a product, to prevent third parties not having the owner’s consent from the acts of: making, using, offering for sale, selling, or importing for these purposes that product;
+(b) where the subject matter of a patent is a process, to prevent third parties not having the owner’s consent from the act of using the process, and from the acts of: using, offering for sale, selling, or importing for these purposes at least the product obtained directly by that process.
+
+Article 29: Conditions on Patent Applicants
+1. Members shall require that an applicant for a patent shall disclose the invention in a manner sufficiently clear and complete for the invention to be carried out by a person skilled in the art and may require the applicant to indicate the best mode for carrying out the invention known to the inventor at the filing date or, where priority is claimed, at the priority date of the application.

@@ -1,0 +1,10 @@
+Source: https://www.tkdl.res.in (Date Accessed: 2026-09-29)
+
+Traditional Knowledge Digital Library (TKDL) Overview and Purpose
+
+The Traditional Knowledge Digital Library (TKDL) is a pioneering Indian initiative to protect Indian traditional medicinal knowledge and prevent its misappropriation at International Patent Offices. 
+
+Purpose:
+1. Prevention of Biopiracy: By documenting traditional knowledge (such as Ayurveda, Unani, Siddha, Sowa Rigpa, and Yoga) that is already in the public domain, the TKDL prevents the granting of erroneous patents.
+2. Prior Art Database: TKDL acts as a bridge between traditional knowledge information existing in local languages (Sanskrit, Hindi, Arabic, Persian, Urdu, Tamil) and patent examiners at international patent offices.
+3. Translation and Access: Information is transcribed into a digitized format and translated into five international languages (English, German, French, Japanese, and Spanish). This allows patent examiners to easily search and establish "prior art" when examining patent applications that attempt to claim Indian traditional remedies as novel inventions.

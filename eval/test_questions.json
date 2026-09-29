@@ -1,0 +1,28 @@
+[
+    {"query": "Is a purely classical Ayurvedic formulation patentable in India?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "What does Section 3(p) of the Patents Act say?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "Can I patent a new drug made of classical ingredients but with a synergistic effect?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "How does the TKDL help prevent biopiracy?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "What are the rules for Ayurveda Aahar?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "Is there any treaty that protects traditional knowledge internationally?", "jurisdiction": "International", "expected_type": "in_scope"},
+    {"query": "What is the Nagoya Protocol?", "jurisdiction": "International", "expected_type": "in_scope"},
+    {"query": "How do TRIPS and CBD interact regarding traditional knowledge?", "jurisdiction": "International", "expected_type": "in_scope"},
+    {"query": "What is Section 3(d) of the Indian Patents Act?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "What are the Access and Benefit Sharing obligations under the Biological Diversity Act for foreigners?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "Can I patent a surgical method?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "What is a phytopharmaceutical under the Drugs and Cosmetics Act?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "Does WIPO have a treaty on genetic resources?", "jurisdiction": "International", "expected_type": "in_scope"},
+    {"query": "How is a proprietary Ayurvedic medicine defined?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "Can I claim that my Ayurvedic product cures cancer?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "What are the patent rules updated in 2024 regarding traditional knowledge?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "How does the Budapest Treaty apply to Ayurvedic microorganisms?", "jurisdiction": "International", "expected_type": "in_scope"},
+    {"query": "What is the role of a Geographical Indication for Ayurvedic plants?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "Can I trademark the name of an ancient Ayurvedic text?", "jurisdiction": "India", "expected_type": "in_scope"},
+    {"query": "What are the disclosure requirements for biological resources in patent applications?", "jurisdiction": "India", "expected_type": "in_scope"},
+    
+    {"query": "How do I fix a carburetor on a 1999 Honda Civic?", "jurisdiction": "India", "expected_type": "out_of_scope"},
+    {"query": "Who won the World Cup in 2022?", "jurisdiction": "International", "expected_type": "out_of_scope"},
+    {"query": "Give me a recipe for chocolate chip cookies.", "jurisdiction": "India", "expected_type": "out_of_scope"},
+    {"query": "What is the capital of France?", "jurisdiction": "International", "expected_type": "out_of_scope"},
+    {"query": "How do I invest in cryptocurrency?", "jurisdiction": "India", "expected_type": "out_of_scope"}
+]
