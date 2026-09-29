@@ -1,0 +1,38 @@
+[
+  {
+    "ingredient": "Turmeric",
+    "applicant": "University of Mississippi Medical Center",
+    "country": "USA",
+    "year": 1995,
+    "patent_office": "USPTO",
+    "outcome": "Revoked after India submitted ancient Sanskrit texts proving prior art",
+    "summary": "Patent on use of turmeric for wound healing revoked due to established traditional knowledge."
+  },
+  {
+    "ingredient": "Neem",
+    "applicant": "W.R. Grace & Co. and US Department of Agriculture",
+    "country": "USA",
+    "year": 1994,
+    "patent_office": "EPO",
+    "outcome": "Revoked in 2000 after 10-year legal battle by Indian NGOs citing prior art",
+    "summary": "Patent on fungicidal properties of neem oil revoked for lack of novelty and inventive step."
+  },
+  {
+    "ingredient": "Basmati",
+    "applicant": "RiceTec Inc.",
+    "country": "USA",
+    "year": 1997,
+    "patent_office": "USPTO",
+    "outcome": "Narrowed significantly after India contested broad claims to Basmati rice lines",
+    "summary": "Attempt to patent Basmati rice lines challenged, leading to cancellation of most broad claims."
+  },
+  {
+    "ingredient": "Ashwagandha",
+    "applicant": "Natreon Inc.",
+    "country": "USA",
+    "year": 2007,
+    "patent_office": "USPTO",
+    "outcome": "Claims restricted to specific extraction processes rather than the herb's traditional uses",
+    "summary": "Patents granted only for specific optimized extracts, while traditional uses remain in public domain."
+  }
+]
